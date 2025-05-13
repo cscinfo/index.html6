@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>धन्यवाद</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    .thankyou-box {
+      background-color: white;
+      border-radius: 10px;
+      padding: 40px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      display: inline-block;
+    }
+    h1 {
+      color: #28a745;
+      font-size: 36px;
+    }
+    p {
+      font-size: 18px;
+      color: #555;
+    }
+    a {
+      margin-top: 20px;
+      display: inline-block;
+      text-decoration: none;
+      color: white;
+      background-color: #007bff;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+    a:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="thankyou-box">
+    <h1>धन्यवाद!</h1>
+    <p>आपका फ़ॉर्म सफलतापूर्वक सबमिट हो गया है।</p>
+    <a href="https://cscinfo.github.io/index.html/">मुख्य पेज पर लौटें</a>
+  </div>
+</body>
+</html>
